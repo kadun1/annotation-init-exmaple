@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="annotation-init-exmaple:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/annotation_init_exmaple_jar</output-path>
+    <root id="archive" name="annotation-init-exmaple.jar">
+      <element id="module-output" name="annotation-init-exmaple" />
+    </root>
+  </artifact>
+</component>
